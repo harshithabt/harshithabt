@@ -71,9 +71,49 @@
 
 ## 📞 Contact me
 
+--
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithabt&show_icons=true&locale=en&layout=compact" alt="harshithabt" /></p>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Hi, I am Harshitha 👋
+
+🎓 CS undergrad at PES University | AI & ML track  
+💻 Building things at the systems + ML intersection  
+📍 Bengaluru, India
+
+---
+
+## 🛠 Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C](https://img.shields.io/badge/C-grey?logo=c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=opencv)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 📊 GitHub Stats
+
+![Harshitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithabt&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithabt&layout=compact&theme=tokyonight&hide_border=true)
