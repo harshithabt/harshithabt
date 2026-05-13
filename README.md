@@ -3,6 +3,8 @@
 🎓 CS undergrad | AI & ML track  
 💻 Building things at the systems + ML intersection  
 📍 India
+
+
 ---
 
 ## 🚀 Languages and Tools I Use
@@ -70,18 +72,19 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
----
 
-## 📞 Contact me
-
---
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithabt&show_icons=true&locale=en&layout=compact" alt="harshithabt" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithabt&show_icons=true&locale=en&layout=compact" alt="harshithabt" /></p>-->
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📞 Contact me
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
