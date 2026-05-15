@@ -23,7 +23,7 @@
 
 ---
 
-## 🤖 Machine Learning and Statistics
+<!--## 🤖 Machine Learning and Statistics
 
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -51,7 +51,7 @@
   ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-
+-->
 ## 📦 Tools and Frameworks
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -75,10 +75,10 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=harshithabt&color=blueviolet&style=flat-square)
 
