@@ -79,7 +79,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithabt&color=blueviolet&style=flat-square)
 
