@@ -4,7 +4,7 @@
   💻 Building things at the systems + ML intersection  
   📍 India
 
-
+<!--
 ---
 
 ## Languages
@@ -70,7 +70,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshithabt&color=blueviolet&style=flat-square)
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshithabt&theme=dark&hide_border=true)](https://git.io/streak-stats)
+-->
 
 <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithabt&show_icons=true&locale=en&layout=compact" alt="harshithabt" /></p>-->
 
@@ -83,3 +84,4 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshithabt)
 
 ---
+-->
