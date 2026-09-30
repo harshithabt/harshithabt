@@ -75,13 +75,10 @@
 
 <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshithabt&show_icons=true&locale=en&layout=compact" alt="harshithabt" /></p>-->
 
----
-
+<!--
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshitha.B.T)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitha30bt@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harshithabt)
 
----
--->
